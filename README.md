@@ -29,11 +29,6 @@ I care about writing clean, readable code and building things that actually work
 
 ---
 
-### GitHub Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhisek343" />
-
----
 
 ### Contact
 
