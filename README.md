@@ -31,9 +31,7 @@ I care about writing clean, readable code and building things that actually work
 
 ### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhisek343&show_icons=true&theme=default" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhisek343" />
 
 ---
 
