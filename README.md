@@ -30,9 +30,6 @@ I care about writing clean, readable code and building things that actually work
 ---
 
 
-### Contact
-
-📧 babhisek569@gmail.com
 
 ---
 
