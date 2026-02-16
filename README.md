@@ -1,36 +1,21 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhisek343&style=flat-square&color=blue" alt="Profile Views"/>
-</p>
+<!-- 
+    THE "ULTIMATE" PROFILE README (Minimalist Edition)
+    Stealth Mode: Senior, Product-Focused.
+-->
 
-<h1 align="center">Hi, I'm Abhisek 👋</h1>
-<h3 align="center">Software Developer</h3>
+# Abhisek Behera
 
----
+**Software Engineer** specializing in **Autonomous Agents**, **Distributed Systems**, and **Cognitive Architectures**.
 
-### About Me
-
-I’m a software developer who enjoys building web applications and understanding how systems work behind the scenes.  
-I’m more comfortable working on the **backend** and like learning about **distributed systems**.
-
-I care about writing clean, readable code and building things that actually work in real-world scenarios.
-
-- Mostly working with backend and full-stack web development  
-- Learning more about distributed systems, cloud, and system design  
-- Comfortable with JavaScript, Node.js, FastAPI, Docker, and AWS  
+I build systems that bridge the gap between theoretical AI and production engineering. My focus is on high-concurrency infrastructure and agentic workflows.
 
 ---
 
-### Tech Stack
-
-**Backend:** Node.js, Express, FastAPI  
-**Frontend:** React, Next.js  
-**Databases & DevOps:** MongoDB, Docker, Nginx, AWS  
-**Languages:** Java, C, C++, Python  
+### 🔭 Current Focus
+*   **Optimization:** Reducing inference latency in cognitive engines.
+*   **Research:** Exploring multi-agent orchestration patterns for complex automation pipelines.
 
 ---
-
-
-
----
-
-Thanks for stopping by 🙂
+<!-- 
+    Pro Tip: pinned repositories above will tell the rest of the story.
+-->
