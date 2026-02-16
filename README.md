@@ -5,15 +5,11 @@
 
 # Abhisek Behera
 
-**Software Engineer** specializing in **Autonomous Agents**, **Distributed Systems**, and **Cognitive Architectures**.
+**Software Engineer** 
 
-I build systems that bridge the gap between theoretical AI and production engineering. My focus is on high-concurrency infrastructure and agentic workflows.
+My main focus is backend engineering and agentic coding.
 
 ---
-
-### 🔭 Current Focus
-*   **Optimization:** Reducing inference latency in cognitive engines.
-*   **Research:** Exploring multi-agent orchestration patterns for complex automation pipelines.
 
 ---
 <!-- 
