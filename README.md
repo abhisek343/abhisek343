@@ -1,17 +1,13 @@
-<!-- 
-    THE "ULTIMATE" PROFILE README (Minimalist Edition)
-    Stealth Mode: Senior, Product-Focused.
--->
-
 # Abhisek Behera
 
-**Software Engineer** 
+> **Senior Software Engineer** specializing in robust backend architectures and agentic systems.
 
-My main focus is backend engineering and agentic coding.
-
----
+I build product-focused solutions, prioritizing scalability and autonomous workflows.
 
 ---
-<!-- 
-    Pro Tip: pinned repositories above will tell the rest of the story.
--->
+
+### 🛠 Core Focus
+* **Backend Engineering:** High-performance systems & API design.
+* **Agentic Coding:** Leveraging LLMs for autonomous development workflows.
+
+👇 *Check the pinned repositories for technical deep-dives.*
