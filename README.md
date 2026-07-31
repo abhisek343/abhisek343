@@ -2,7 +2,7 @@
 
 # Hi, I'm Abhisek Behera
 
-### Backend / Platform Engineer — Go, distributed systems, observability, and protocol interoperability
+### Backend / Platform Engineer — Go, Python, distributed systems, and observability
 
 I build dependable backend systems and infrastructure tooling with an emphasis on failure modes, testability, and useful evidence.
 
@@ -36,30 +36,35 @@ A lightweight Go-based WebRTC Selective Forwarding Unit built on Pion, with WebS
 
 ### [CloudPulse AI](https://github.com/abhisek343/cloudpulse)
 
-An open-source FinOps platform that combines cloud-cost ingestion, forecasting, anomaly detection, background workers, and natural-language analysis. The stack includes FastAPI services, PostgreSQL, Redis, RabbitMQ, and local monitoring with Prometheus, Grafana, and OpenTelemetry.
+An open-source FinOps platform for cloud-cost ingestion, forecasting, anomaly detection, background workers, and natural-language analysis.
 
-**Python · FastAPI · PostgreSQL · Redis · RabbitMQ · Next.js**
+**Python · FastAPI · PostgreSQL · Redis · RabbitMQ · Next.js · OpenTelemetry**
 
-### [TensorDrive](https://github.com/abhisek343/TensorDrive)
+### [Infra Change Risk Engine](https://github.com/abhisek343/-infra-change-risk-engine)
 
-A browser-based self-driving simulation that trains and runs neural-network controllers with TensorFlow.js.
+An infrastructure pre-deploy gate that parses Terraform and Kubernetes changes, evaluates deterministic guardrails, computes blast-radius and deployment risk, and generates corrected patches through an OpenAI-compatible model and MCP server.
 
-**TypeScript · React · TensorFlow.js · Node.js · PostgreSQL**
+**Python · FastAPI · SQLAlchemy · TypeScript · Next.js · Terraform · Kubernetes · MCP**
 
 ## Open-source work
 
 - [Apache Airflow #70794](https://github.com/apache/airflow/pull/70794) — Fix Cloud Build operator template preparation. **Open**
 - [Supabase #42441](https://github.com/supabase/supabase/pull/42441) — Prevent authentication forms from overwriting a stale `SITE_URL`. **Open**
 
-## Technology
+## Technologies I work with
+
+| Area | Technologies |
+|---|---|
+| **Languages** | Go, Python, Java, C++, JavaScript, TypeScript |
+| **Backend** | FastAPI, Node.js, Express, REST APIs, microservices, WebSockets |
+| **Data & messaging** | PostgreSQL, MySQL, MongoDB, Redis, Kafka, RabbitMQ |
+| **Cloud & infrastructure** | AWS, Docker, Kubernetes, Terraform, Nginx |
+| **Observability** | Prometheus, Grafana, OpenTelemetry, CI/CD, automated testing |
+| **AI/ML** | OpenAI and Gemini APIs, TensorFlow.js, forecasting, anomaly detection |
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,python,java,typescript,postgres,redis,kafka,rabbitmq,docker,kubernetes,aws,git" alt="Go, Python, Java, TypeScript, PostgreSQL, Redis, Kafka, RabbitMQ, Docker, Kubernetes, AWS, and Git">
+  <img src="https://skillicons.dev/icons?i=go,python,java,cpp,typescript,postgres,redis,kafka,rabbitmq,docker,kubernetes,terraform,aws,prometheus,grafana,git" alt="Technology stack">
 </p>
-
-## AI & machine learning
-
-AI/ML is a separate part of my work: browser-based neural-network simulations, forecasting and anomaly detection, and LLM-assisted developer applications.
 
 ## Competitive programming
 
