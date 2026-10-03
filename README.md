@@ -7,8 +7,8 @@
 I build dependable backend systems and infrastructure tooling with an emphasis on failure modes, testability, and useful evidence.
 
 <p>
-  <a href="https://www.linkedin.com/in/abhisek343/">
-    <img src="https://img.shields.io/badge/LinkedIn-abhisek343-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/babhisek033/">
+    <img src="https://img.shields.io/badge/LinkedIn-babhisek033-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/abhisek343">
     <img src="https://komarev.com/ghpvc/?username=abhisek343&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
@@ -48,7 +48,7 @@ An infrastructure pre-deploy gate that parses Terraform and Kubernetes changes, 
 
 ## Open-source work
 
-- [Apache Airflow #70794](https://github.com/apache/airflow/pull/70794) — Fix Cloud Build operator template preparation. **Open**
+- [Apache Airflow #70794](https://github.com/apache/airflow/pull/70794) — Fixed Cloud Build operator template preparation; the contribution was carried forward with original commit attribution into [#73592](https://github.com/apache/airflow/pull/73592), which was merged. **Merged via #73592**
 - [Supabase #42441](https://github.com/supabase/supabase/pull/42441) — Prevent authentication forms from overwriting a stale `SITE_URL`. **Open**
 
 ## Technologies I work with
@@ -80,6 +80,6 @@ An infrastructure pre-deploy gate that parses Terraform and Kubernetes changes, 
 
 ## Connect
 
-- LinkedIn: [linkedin.com/in/abhisek343](https://www.linkedin.com/in/abhisek343/)
+- LinkedIn: [linkedin.com/in/babhisek033](https://www.linkedin.com/in/babhisek033/)
 - GitHub: [github.com/abhisek343](https://github.com/abhisek343)
 
